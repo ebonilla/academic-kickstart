@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Edwin V. Bonilla
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Principal Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: CSIRO's Data61
+  url: "https://data61.csiro.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include probabilistic modelling and inference, Gaussian processes and transfer learning.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine learning 
+- Artificial intelligence
+- Bayesian statistics 
+- Gaussian processes
+- Learning from structured data
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Informatics
+    institution: The University of Edinburgh
     year: 2008
+  - course: MSc in Artificial Intelligence
+    institution: The University of Edinburgh
+    year: 2004
+  - course: BSc in Computer Science
+    institution: Universidad Industrial de Santander
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +46,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#mailto:firstname.surname@data61.csiro.au'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/edwinvbonilla
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.au/citations?user=uDLRZQMAAAAJ 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ebonilla
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +72,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a principal research scientist at [CSIRO's Data61](https://data61.csiro.au) where I lead the Foundations and Methods team within the Machine Learning Research Group. Most of my work revolves around uncertainty quantification, probabilistic modelling and efficient probabilistic inference, usually adopting a Bayesian perspective. Interests include transfer learning, Gaussian processes and graph neural networks.  I have worked in applications such as geophysical inversions, computer vision, document analysis, spatio-temporal modelling and product recommendation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
+
